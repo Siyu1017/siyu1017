@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 # 存儲庫
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Siyu1017&repo=Time.js)](https://github.com/Siyu1017/Time.js) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Siyu1017&repo=Regex.js)](https://github.com/Siyu1017/Regex.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Siyu1017&repo=Regex.js)](https://github.com/Siyu1017/Regex.js) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Siyu1017&repo=StyleViewer.js)](https://github.com/Siyu1017/StyleViewer.js)
