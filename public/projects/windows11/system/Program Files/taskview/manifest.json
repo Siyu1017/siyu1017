@@ -1,0 +1,5 @@
+{
+    "name": "taskview",
+    "script": "app.js",
+    "icon": "task-view.png"
+}

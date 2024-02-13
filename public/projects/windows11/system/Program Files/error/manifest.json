@@ -1,0 +1,15 @@
+{
+    "name": "error",
+    "version": "1.0.0",
+    "script": "app.js",
+    "icon": "Windows Icons/Stop.ico",
+    "commands": {
+        "run": "serve start browser",
+        "stop": "serve stop browser",
+        "restart": "serve restart browser"
+    },
+    "permissions": {
+
+    },
+    "developer": "Siyu1017, WebOS"
+}
