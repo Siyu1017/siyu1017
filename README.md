@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyu1017) 
 
--->
+https://siyu1017.github.io/
+
 ## 欸嘿
 生日 : 2008 / 10 / 17
 
 ## 專案
-- [JSON Viewer](https://siyu1017.github.io/json-viewer/) — 類似於 DevTool 的 json 檢視器
-- [StyleViewer.js](https://siyu1017.github.io/StyleViewer.js) — 查找網頁中元素的樣式
-- [Youtube Downloader](https://yt-dler.vercel.app) — 透過 Youtube 連結免費且無廣告下載影片
+- [JSON Viewer](https://siyu1017.github.io/json-viewer/) — JSON 瀏覽器
+- [StyleViewer.js](https://siyu1017.github.io/StyleViewer.js) — 元素樣式檢視工具
+- [Better KSHS](https://better-kshs.vercel.app/) — 更好用的高雄中學校網
 - [Winbows11](https://winbows11.vercel.app/) — 網頁版 Windows11
