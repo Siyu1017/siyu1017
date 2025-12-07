@@ -6,7 +6,7 @@ I’m a full-stack web developer with four years of experience. I may dislike ru
 
 Feel free to reach out if you want to collaborate or just say hi!😊
 
-Email: [mailto:siyu1017.dev@gmail.com](siyu1017.dev@gmail.com)
+Email: [siyu1017.dev@gmail.com](mailto:siyu1017.dev@gmail.com)
 
 ## My Skills
   
